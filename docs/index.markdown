@@ -9,6 +9,6 @@ layout: default
 
 I might be adding more content to this page in the future however please find below
 
-- [Developer Roadmap](mberndt92.github.io/LoanCalculatorSupportPrivacy/roadmap)
-- [Privacy Policy](mberndt92.github.io/LoanCalculatorSupportPrivacy/privacy)
-- [Terms & Conditions](mberndt92.github.io/LoanCalculatorSupportPrivacy/terms)
+- [Developer Roadmap](/roadmap)
+- [Privacy Policy](/privacy)
+- [Terms & Conditions](/terms)
