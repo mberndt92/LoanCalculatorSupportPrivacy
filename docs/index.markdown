@@ -12,3 +12,4 @@ I might be adding more content to this page in the future however please find be
 - [Developer Roadmap](/roadmap)
 - [Privacy Policy](/privacy)
 - [Terms & Conditions](/terms)
+- [Support](/support)
