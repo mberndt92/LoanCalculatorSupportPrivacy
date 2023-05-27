@@ -23,7 +23,7 @@ email: maximilian_berndt+loan_calculator@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thank you for downloading Loans - Loan Calculator. 
   This site is here to support any issues or help you need with the app.
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mberndt92
 github_username:  mberndt92
