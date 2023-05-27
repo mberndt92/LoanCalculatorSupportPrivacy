@@ -29,7 +29,8 @@ twitter_username: mberndt92
 github_username:  mberndt92
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+# remote_theme: pages-themes/cayman@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
